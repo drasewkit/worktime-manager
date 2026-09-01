@@ -7,7 +7,7 @@
 1. リポジトリをクローン
 
 ```zsh
-git clone git@github.com:tkdisk49/worktime-manager.git
+git clone git@github.com:drasewkit/worktime-manager.git
 ```
 
 2. Docker 環境をビルドして起動
